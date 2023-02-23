@@ -44,7 +44,7 @@ const Header = () => {
         <div ref={headerRef} className="header" >
             <div className="header__wrap container">
                 <div className="logo">
-                    <Link to="/" >visit <span className="red" >Norway</span> </Link>
+                    <Link to="/" >visit Noahs <span className="red" >APP</span> </Link>
                 </div>
                 <ul className="header__nav">
                     {
